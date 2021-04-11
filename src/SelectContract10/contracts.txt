@@ -1,0 +1,7 @@
+
+3RED,Victoria,Vancouver,CATS
+4RED,Vancouver,Victoria,CATS
+5RED,Price George,Victoria,CATS
+8RED,Price George,Nanaimo,TESTER
+5TED,Victoria,Vancouver,CABBAGE
+6ERS,Seattle,Victoria,CABBAGE
